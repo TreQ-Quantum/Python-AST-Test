@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Python AST.Tests/Python AST.Tests.csproj" />
+  <Project Path="Python AST/Python AST.csproj" />
+</Solution>
